@@ -1,4 +1,4 @@
-# Sistema de Taller Mecánico - Capa del Modelo (POO)
+# Sistema de Taller Mecánico 
 
 **Estudiante:** Francisco Alejandro Ramirez Garcia  
 **Materia:** Programación Orientada a Objetos  
